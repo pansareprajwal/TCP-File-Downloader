@@ -34,7 +34,7 @@ The **TCP Network File Downloader** is a C-based client application that utilize
 The program requires exactly 4 command-line arguments to run:
 ./client 127.0.0.1 9000 ServerData.txt DownloadedData.txt
 
-👨‍💻 Author
+### 👨‍💻 Author
 Prajwal Sanjay Pansare
 
 GitHub: [@pansareprajwal](https://github.com/pansareprajwal)
